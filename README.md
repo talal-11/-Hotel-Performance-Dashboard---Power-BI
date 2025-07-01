@@ -16,8 +16,8 @@ This Power BI project analyzes operational and revenue performance for a hotel c
 ## 📁 Files Included
 
 - `AtliQ_Grands_Dashboard.pbix` – Power BI Dashboard File  
-- `Hotel_Data_Cleaned.xlsx` – Cleaned dataset (optional, if sharable)  
-- `Dashboard_Screenshot.png` – Visual preview (optional)
+- `Hotel_Data_Cleaned.xlsx` – Cleaned dataset 
+- `Dashboard_Screenshot.png` – Visual preview 
 
 ---
 
