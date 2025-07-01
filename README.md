@@ -15,8 +15,7 @@ This Power BI project analyzes operational and revenue performance for a hotel c
 
 ## 📁 Files Included
 
-- `AtliQ_Grands_Dashboard.pbix` – Power BI Dashboard File  
-- `Hotel_Data_Cleaned.xlsx` – Cleaned dataset 
+- `Hotel Performance Dashboard` – Power BI Dashboard File  
 - `Dashboard_Screenshot.png` – Visual preview 
 
 ---
@@ -44,7 +43,7 @@ This Power BI project analyzes operational and revenue performance for a hotel c
 ## 🔗 How to Use
 
 1. Clone or download this repository
-2. Open `AtliQ_Grands_Dashboard.pbix` in Power BI Desktop
+2. Open `Hotel Performance Dashboard` in Power BI Desktop
 3. Connect or refresh data (if necessary)
 4. Explore the interactive dashboard
 
